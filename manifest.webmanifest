@@ -1,0 +1,13 @@
+{
+  "name": "สถานภาพยานพาหนะและเครื่องจักรกล ช.พัฒนา สนภ.5 นทพ.",
+  "short_name": "สถานภาพรถ ช.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#12291f",
+  "theme_color": "#1e3a2f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
